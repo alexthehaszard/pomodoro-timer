@@ -9,13 +9,10 @@ function Timer(props: {
 }) {
   return (
     <div style={props.style}>
-      <h1
-        style={
-          {
-            // color: props.inSession ? props.secondaryColour : props.primaryColour,
-          }
-        }
-      >
+      <h3 style={{ textAlign: "center" }}>
+        {props.inSession ? "Work" : "Break"}
+      </h3>
+      <h1>
         {formatMinutes(props.time)}:{formatSeconds(props.time)}
       </h1>
     </div>
