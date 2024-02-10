@@ -13,4 +13,4 @@ To run this site locally, install the repository, then in a terminal in the dire
 
 - Add a popup when the "?" button is pressed (top right of setup screen)
 - Create a nicer ui for the setup screen
-- Input validity checking
+- Input validity checking (maybe already good?)
