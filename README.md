@@ -9,6 +9,12 @@ To run this site locally, install the repository, then in a terminal in the dire
     npm install
     npm run dev
 
+## Live preview
+
+This project is built and hosted at:
+
+[Live Preview](https://pomodoro-timer-five-beige.vercel.app/)
+
 ## TODO
 
 - Add a popup when the "?" button is pressed (top right of setup screen)
