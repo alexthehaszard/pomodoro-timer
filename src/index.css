@@ -78,6 +78,10 @@ input[type="number"] {
   color: black;
 }
 
+a {
+  color: black;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;

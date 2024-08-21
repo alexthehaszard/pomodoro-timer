@@ -55,7 +55,9 @@ function App() {
         }}
       >
         <h2>Pomodoro Timer</h2>
-        <button>?</button>
+        <button>
+          <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">?</a>
+        </button>
       </header>
       <main
         style={{
